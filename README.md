@@ -1,8 +1,7 @@
 # FormSubmit_Hub
 
 ## To Run
-- Install node
-- run `npm install`
+Install latest [node](https://nodejs.org/en/)
 
 ```shell
 npm install
